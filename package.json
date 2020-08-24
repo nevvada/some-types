@@ -1,0 +1,26 @@
+{
+  "name": "some-types",
+  "version": "1.0.0",
+  "description": "a sandbox for experimenting with utility types &amp; generics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlemast/some-types.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "Nathan Le Master",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlemast/some-types/issues"
+  },
+  "homepage": "https://github.com/nlemast/some-types#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
